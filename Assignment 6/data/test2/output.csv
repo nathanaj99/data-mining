@@ -1,0 +1,5 @@
+round_id,nof_cluster_discard,nof_point_discard,nof_cluster_compression,nof_point_compression,nof_point_retained1,10,21310,0,0,81,10,21310,0,0,8
+2,10,42622,0,0,14
+3,10,63929,5,10,15
+4,10,84308,6,945,19
+5,10,101138,11,5437,15
