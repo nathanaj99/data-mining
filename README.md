@@ -1,4 +1,4 @@
-# DSCI-553
+# DSCI-553: Data Mining
 
 Each folder contains:
 - Python code designed to run on PySpark 3.6
